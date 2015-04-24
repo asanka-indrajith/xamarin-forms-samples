@@ -8,6 +8,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>HeartRateMonitor.iOS</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
+    <AssemblyName>XamarinRoboticsBluetoothLEExplorerFormsiOS</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
     <DebugSymbols>true</DebugSymbols>
