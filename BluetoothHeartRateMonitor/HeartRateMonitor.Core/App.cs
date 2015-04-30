@@ -12,7 +12,7 @@ namespace HeartRateMonitor
 		{	
 			return new NavigationPage (new DeviceList (Adapter));
 		}
-        //setting adapter 222 3333 666
+        //setting adapter 222 3333
 		public static void SetAdapter (IAdapter adapter) {
 			Adapter = adapter;
 		}
